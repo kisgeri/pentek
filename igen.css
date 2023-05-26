@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 350px;
+    font-size: 250px;
+}
